@@ -46,6 +46,7 @@
 			"class": ".class1645547241647",
 			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
 			"url": "/selector",
+			"hideNext": true,
 			"autoNext": true
 		},
 		{
