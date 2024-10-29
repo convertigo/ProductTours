@@ -70,21 +70,16 @@
 		},
 		{
 			"title": "In here, we will write a short description about our app. You can use all the editing tool options such as formatting, fonts, images etc...",
-			"class": ".tox-sidebar-wrap",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "We just center our text",
-			"class": "",
-			"intro": "",
+			"class": ".tox-editor-container",
+			"intro": "Type \"This is my Demo App!\" and center the text.",
 			"url": "/editor"
 		},
 		{
 			"title": "And then validate our section",
 			"class": ".class1650357060188",
 			"intro": "",
-			"url": "/editor"
+			"url": "/editor",
+			"autoNext": true
 		},
 		{
 			"title": "We will now drag a \"Text description\" to our page",
