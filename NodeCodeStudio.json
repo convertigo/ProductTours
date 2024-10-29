@@ -131,7 +131,7 @@
 		},
 		{
 			"title": "We set the option to size all to columns to fit in the grid",
-			"class": "ion-toggle",
+			"class": ".class1656520466594",
 			"intro": "",
 			"url": "/editor",
 			"autoNext": true
@@ -145,7 +145,7 @@
 		},
 		{
 			"title": "Among many other data sources, we will choose our Integrated Baserow No Code database source",
-			"class": "",
+			"class": ".class1599825036461",
 			"intro": "",
 			"url": "/editor",
 			"autoNext": true
@@ -169,72 +169,72 @@
 		},
 		{
 			"title": "We select the database from where we want the data",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "Then the table where the data resides in",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "We unselect all the columns",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "And select only the one we want",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "Here",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "Here",
-			"intro": "",
+			"intro": ".class123456789",
 			"url": "/editor"
 		},
 		{
 			"title": "And here!",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "We will reorder the columns",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "And this one too",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "And validate",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "We validate the data grid configuration",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "Et voila! let's see our app in action!",
-			"class": "",
+			"class": ".class123456789",
 			"intro": "",
 			"url": "/editor"
 		}
