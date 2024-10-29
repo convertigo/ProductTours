@@ -92,7 +92,8 @@
 			"title": "And click on the section to configure it",
 			"class": ".class1650357060764",
 			"intro": "",
-			"url": "/editor"
+			"url": "/editor",
+			"autoNext": true
 		},
 		{
 			"title": "Again, let's write some text to describe this section",
