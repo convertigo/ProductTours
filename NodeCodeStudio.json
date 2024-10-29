@@ -39,7 +39,8 @@
 			"title": "Here is your dashboard. In here you will find all your apps you are building.",
 			"class": ".class1645545973561",
 			"intro": "Also you will see here the \"Published App\" and the \"No Code Database\" Tabs.<br><ul><li>Click on \"Published Apps\" to see all the applications you published and those that are shared with you.</li><li>Click on \"No Code Database\" to list all thedata bases that have been created by you or shared with you.</li>",
-			"url": "/selector"
+			"url": "/selector",
+			"hidePrevious": true
 		},
 		{
 			"title": "Let's add a new App!",
@@ -60,6 +61,8 @@
 			"class": "ion-toast::.toast-button",
 			"intro": "",
 			"url": "/editor",
+			"hidePrevious": true,
+			"hideNext": true,
 			"autoNext": true
 		},
 		{
@@ -67,6 +70,7 @@
 			"class": ".class1650357060212",
 			"intro": "",
 			"url": "/editor",
+			"hideNext": true,
 			"autoNext": true
 		},
 		{
@@ -80,6 +84,7 @@
 			"class": ".class1650357060188",
 			"intro": "",
 			"url": "/editor",
+			"hideNext": true,
 			"autoNext": true
 		},
 		{
