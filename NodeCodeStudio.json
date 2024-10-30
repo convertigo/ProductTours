@@ -62,7 +62,7 @@
 			"intro": "",
 			"url": "/editor",
 			"hidePrevious": true,
-			"hideNext": true,
+			"hideNext": false,
 			"autoNext": true
 		},
 		{
