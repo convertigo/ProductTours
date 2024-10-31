@@ -25,7 +25,6 @@
 	"steps":[
 		{
 			"title": "Convertigo No Code Studio<br>Demo",
-			"class": "",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
@@ -72,6 +71,14 @@
 			"hidePrevious": true,
 			"hideNext": false,
 			"autoNext": true
+		},
+		{
+			"title": "Here is the 'Palette' where all the form components sit.",
+			"class": ".class1650357035511",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": true,
+			"hideNext": false
 		}
 	]
 }
