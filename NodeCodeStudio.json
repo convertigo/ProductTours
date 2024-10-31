@@ -15,7 +15,7 @@
 	"exitOnOverlayClick": true,
 	"showStepNumbers": true,
 	"stepNumbersOfLabel": "of",
-	"keyboardNavigation": true,
+	"keyboardNavigation": false,
 	"showButtons": true,
 	"showBullets": false,
 	"showProgress": true,
@@ -25,15 +25,16 @@
 	"steps":[
 		{
 			"title": "Convertigo No Code Studio<br>Demo",
-			"class": "",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
 		{
-			"title": "You can use one of our Single Sign On options here. We also support SAMLv2 and LDAP for Enterprises",
+			"title": "You can use one of our Single Sign On options here.<br>We also support SAMLv2 and LDAP for Enterprises",
 			"class": ".class1645091280593",
 			"intro": "Please, select an authentication method to proceed to next step.",
-			"url": "/login"
+			"url": "/login",
+			"hideNext": true,
+			"autoNext": true
 		},
 		{
 			"title": "Here is your dashboard. In here you will find all your apps you are building.",
@@ -43,9 +44,15 @@
 			"hidePrevious": true
 		},
 		{
+			"title": "This is where you create a new empty Form or based on an existing template.",
+			"class": ".class1645547303032",
+			"intro": "",
+			"url": "/selector"
+		},
+		{
 			"title": "Let's add a new App!",
 			"class": ".class1645547241647",
-			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
+			"intro": "<p>Click the + icon to create a new App.</p>",
 			"url": "/selector",
 			"hideNext": true,
 			"autoNext": true
@@ -53,195 +60,90 @@
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "",
-			"url": "/selector"
+			"intro": "<p>Write \"Demo App\" in the 'Title' field.</p><p>Click the Save button to validate</p>",
+			"url": "/selector",
+			"hideNext": true
 		},
 		{
-			"title": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
+			"title": "GDPR",
 			"class": "ion-toast::.toast-button",
-			"intro": "",
+			"intro": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false,
 			"autoNext": true
 		},
 		{
-			"title": "Click on a section to modify and configure it",
-			"class": ".class1650357060212",
-			"intro": "",
+			"title": "PALETTE",
+			"class": ".class1650357035511",
+			"intro": "Here is the 'Palette' where all the components available for your App sit.",
 			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
+			"hidePrevious": true,
+			"hideNext": false
 		},
 		{
-			"title": "In here, we will write a short description about our app. You can use all the editing tool options such as formatting, fonts, images etc...",
-			"class": ".tox-editor-container",
-			"intro": "Type \"This is my Demo App!\" and center the text.",
+			"title": "FORM EDITOR",
+			"class": ".class1650357059411",
+			"intro": "This is the main view of your APp where you add, modify and configure your components.",
 			"url": "/editor"
 		},
 		{
-			"title": "And then validate our section",
-			"class": ".class1650357060194",
-			"intro": "",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
+			"title": "PREVIEW",
+			"class": ".class1650456634117",
+			"intro": "This button permits you to preview your App.",
+			"url": "/editor"
 		},
 		{
-			"title": "We will now drag a \"Text description\" to our page",
-			"class": "img[src='assets/images/svg/component/icn_title.svg']",
-			"intro": "Or you can double-click the section to automatically add it at the end of the Form",
-			"url": "/editor",
-			"autoNext": true
+			"title": "PUBLISH",
+			"class": ".class1650456634147",
+			"intro": "Once your App is finished, click this button to publish it.<p>You can then share it with yours users to collect responses.</p>",
+			"url": "/editor"
 		},
 		{
-			"title": "And click on the section to configure it",
-			"class": ".class1650357060764",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
+			"title": "COLLABORATORS",
+			"class": ".class1650456634183",
+			"intro": "Here, you will be able to add collaborators to your App.<p>Collaborators can edit your form and/or view Form's responses.</p>",
+			"url": "/editor"
 		},
 		{
-			"title": "Again, let's write some text to describe this section",
-			"class": ".tox-sidebar-wrap",
+			"title": "Let's see in details some components of the Palette",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
-			"title": "And validate",
-			"class": ".class1650357060719",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
+			"title": "SELECT",
+			"class": "img[src='assets/images/svg/component/icn_select.svg']",
+			"intro": "This component is a control that provides a menu of options.<p>You can write your own options by hand or select data from the No Code Database.</p>",
+			"url": "/editor"
 		},
 		{
-			"title": "We will now use a \"Data grid\" to display data from the No Code database",
+			"title": "DATE",
+			"class": "img[src='assets/images/svg/component/icn_calendar.svg']",
+			"intro": "This component allows the user to pick a date.",
+			"url": "/editor"
+		},
+		{
+			"title": "CAMERA",
+			"class": "img[src='assets/images/svg/component/icn_camera.svg']",
+			"intro": "This component allows the user to take a picture",
+			"url": "/editor"
+		},
+		{
+			"title": "DATA Grid",
 			"class": "img[src='assets/images/svg/component/icn_sheet.svg']",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "The grid is now installed, let's click on the section to configure it",
-			"class": "ag-grid-angular",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "To see all the Advanced options, click on the \"A\" button",
-			"class": "img[src='assets/images/svg/component/icn_a.svg']",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "We set the option to size all to columns to fit in the grid",
-			"class": ".class1656520466591",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "We now are going to configure the data source for this grid",
-			"class": ".class1608568353342",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "Among many other data sources, we will choose our Integrated Baserow No Code database source",
-			"class": ".class1599825036461",
-			"intro": "",
-			"url": "/editor",
-			"autoNext": true
-		},
-		{
-			"title": "We select the operation to do. In this case \"Get data\" to retreive data form the database",
-			"class": ".class1600876689488",
-			"intro": ""
-		},
-		{
-			"title": "And validate",
-			"class": ".class1599830132445",
-			"intro": "",
+			"intro": "This component allows the user to represent data in a table. These data come from data sources.",
 			"url": "/editor"
 		},
 		{
-			"title": "Now we just have to configure the data source",
-			"class": ".class1678818942036",
-			"intro": "",
+			"title": "IMPORT FILE",
+			"class": "img[src='assets/images/svg/component/icn_import.svg']",
+			"intro": "This component allows the user to import files.",
 			"url": "/editor"
 		},
 		{
-			"title": "We select the database from where we want the data",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "Then the table where the data resides in",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "We unselect all the columns",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "And select only the one we want",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "Here",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "Here",
-			"intro": ".class123456789",
-			"url": "/editor"
-		},
-		{
-			"title": "And here!",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "We will reorder the columns",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "And this one too",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "And validate",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "We validate the data grid configuration",
-			"class": ".class123456789",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "Et voila! let's see our app in action!",
-			"class": ".class123456789",
-			"intro": "",
+			"title": "SIGNATURE",
+			"class": "img[src='assets/images/svg/component/icn_sign.svg']",
+			"intro": "This component allows the user to affix his signature.",
 			"url": "/editor"
 		}
 	]
