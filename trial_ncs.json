@@ -52,7 +52,7 @@
 		{
 			"title": "Let's add a new App!",
 			"class": ".class1645547241647",
-			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
+			"intro": "Click the + icon to create a new App.</p>",
 			"url": "/selector",
 			"hideNext": true,
 			"autoNext": true
@@ -60,13 +60,13 @@
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "",
+			"intro": "<p>Write \"Demo App\" in the 'Title' field. Click the Save button to validate",
 			"url": "/selector"
 		},
 		{
-			"title": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
+			"title": "GDPR",
 			"class": "ion-toast::.toast-button",
-			"intro": "",
+			"intro": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false,
@@ -75,7 +75,7 @@
 		{
 			"title": "PALETTE",
 			"class": ".class1650357035511",
-			"intro": "Here is the 'Palette' where all the form components sit.",
+			"intro": "Here is the 'Palette' where all the components available for your App sit.",
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false
@@ -83,88 +83,67 @@
 		{
 			"title": "FORM EDITOR",
 			"class": ".class1650357059411",
-			"intro": "This is the main view of your Form where you add, modify and configure your components.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"intro": "This is the main view of your APp where you add, modify and configure your components.",
+			"url": "/editor"
 		},
 		{
 			"title": "PREVIEW",
 			"class": ".class1650456634117",
-			"intro": "This button permits you to preview your Form.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"intro": "This button permits you to preview your App.",
+			"url": "/editor"
 		},
 		{
 			"title": "PUBLISH",
 			"class": ".class1650456634147",
-			"intro": "Once your Form is finished, click this button to publish it.<br>You can then share it with yours users to collect responses.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"intro": "Once your App is finished, click this button to publish it.<p>You can then share it with yours users to collect responses.</p>",
+			"url": "/editor"
 		},
 		{
 			"title": "COLLABORATORS",
 			"class": ".class1650456634183",
-			"intro": "Here, you will be able to add collaborators to your Form.<br>Collaborators can edit your form and/or view Form's responses.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"intro": "Here, you will be able to add collaborators to your App.<p>Collaborators can edit your form and/or view Form's responses.</p>",
+			"url": "/editor"
 		},
 		{
 			"title": "Let's see in details some components of the Palette",
-			"class": "img[src='assets/images/svg/component/icn_select.svg']",
 			"intro": "",
 			"url": "/editor"
 		},
 		{
 			"title": "SELECT",
 			"class": "img[src='assets/images/svg/component/icn_select.svg']",
-			"intro": "This component is a control that provides a menu of options.<p><img title='SELECT Component' width='277' height='327' src='https://github.com/convertigo/ProductTours/blob/22616489da0e7aa232119658305b80237c8b0ec3/imgs/component_select.png?raw=true'></p><p>You can write your own options by hand or select data from the No Code Database.</p>",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"intro": "This component is a control that provides a menu of options.<p>You can write your own options by hand or select data from the No Code Database.</p>",
+			"url": "/editor"
 		},
 		{
 			"title": "DATE",
 			"class": "img[src='assets/images/svg/component/icn_calendar.svg']",
 			"intro": "This component allows the user to pick a date.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"url": "/editor"
 		},
 		{
 			"title": "CAMERA",
 			"class": "img[src='assets/images/svg/component/icn_camera.svg']",
 			"intro": "This component allows the user to take a picture",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"url": "/editor"
 		},
 		{
 			"title": "DATA Grid",
 			"class": "img[src='assets/images/svg/component/icn_sheet.svg']",
 			"intro": "This component allows the user to represent data in a table. These data come from data sources.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"url": "/editor"
 		},
 		{
 			"title": "IMPORT FILE",
-			"class": "img[src='assets/images/svg/component/icn_select.svg']",
+			"class": "img[src='assets/images/svg/component/icn_import.svg']",
 			"intro": "This component allows the user to import files.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"url": "/editor"
 		},
 		{
 			"title": "SIGNATURE",
-			"class": "img[src='assets/images/svg/component/icn_select.svg']",
+			"class": "img[src='assets/images/svg/component/icn_sign.svg']",
 			"intro": "This component allows the user to affix his signature.",
-			"url": "/editor",
-			"hidePrevious": false,
-			"hideNext": false
+			"url": "/editor"
 		}
 	]
 }
