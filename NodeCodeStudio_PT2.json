@@ -1,0 +1,248 @@
+{
+	"isActive": true,
+	"nextLabel": "Next",
+	"prevLabel": "Back",
+	"skipLabel": "x",
+	"doneLabel": "Done",
+	"hidePrev": true,
+	"hideNext": false,
+	"nextToDone": true,
+	"tooltipPosition": "bottom",
+	"tooltipClass": "",
+	"group": "",
+	"highlightClass": "",
+	"exitOnEsc": true,
+	"exitOnOverlayClick": true,
+	"showStepNumbers": true,
+	"stepNumbersOfLabel": "of",
+	"keyboardNavigation": true,
+	"showButtons": true,
+	"showBullets": false,
+	"showProgress": true,
+	"scrollToElement": true,
+	"dontShowAgain": true,
+	"disableInteraction": false,
+	"steps":[
+		{
+			"title": "Convertigo No Code Studio<br>Demo",
+			"class": "",
+			"intro": "Learn how to create instantly No Code Apps",
+			"url": "/login"
+		},
+		{
+			"title": "You can use one of our Single Sign On options here. We also support SAMLv2 and LDAP for Enterprises",
+			"class": ".class1645091280593",
+			"intro": "Please, select an authentication method to proceed to next step.",
+			"url": "/login"
+		},
+		{
+			"title": "Here is your dashboard. In here you will find all your apps you are building.",
+			"class": ".class1645545973561",
+			"intro": "Also you will see here the \"Published App\" and the \"No Code Database\" Tabs.<br><ul><li>Click on \"Published Apps\" to see all the applications you published and those that are shared with you.</li><li>Click on \"No Code Database\" to list all thedata bases that have been created by you or shared with you.</li>",
+			"url": "/selector",
+			"hidePrevious": true
+		},
+		{
+			"title": "Let's add a new App!",
+			"class": ".class1645547241647",
+			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
+			"url": "/selector",
+			"hideNext": true,
+			"autoNext": true
+		},
+		{
+			"title": "Just name it Demo App",
+			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
+			"intro": "",
+			"url": "/selector"
+		},
+		{
+			"title": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
+			"class": "ion-toast::.toast-button",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": true,
+			"hideNext": false,
+			"autoNext": true
+		},
+		{
+			"title": "Click on a section to modify and configure it",
+			"class": ".class1650357060212",
+			"intro": "",
+			"url": "/editor",
+			"hideNext": true,
+			"autoNext": true
+		},
+		{
+			"title": "In here, we will write a short description about our app. You can use all the editing tool options such as formatting, fonts, images etc...",
+			"class": ".tox-editor-container",
+			"intro": "Type \"This is my Demo App!\" and center the text.",
+			"url": "/editor"
+		},
+		{
+			"title": "And then validate our section",
+			"class": ".class1650357060194",
+			"intro": "",
+			"url": "/editor",
+			"hideNext": true,
+			"autoNext": true
+		},
+		{
+			"title": "We will now drag a \"Text description\" to our page",
+			"class": "img[src='assets/images/svg/component/icn_title.svg']",
+			"intro": "Or you can double-click the section to automatically add it at the end of the Form",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "And click on the section to configure it",
+			"class": ".class1650357060764",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "Again, let's write some text to describe this section",
+			"class": ".tox-sidebar-wrap",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "And validate",
+			"class": ".class1650357060719",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "We will now use a \"Data grid\" to display data from the No Code database",
+			"class": "img[src='assets/images/svg/component/icn_sheet.svg']",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "The grid is now installed, let's click on the section to configure it",
+			"class": "ag-grid-angular",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "To see all the Advanced options, click on the \"A\" button",
+			"class": "img[src='assets/images/svg/component/icn_a.svg']",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "We set the option to size all to columns to fit in the grid",
+			"class": ".class1656520466591",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "We now are going to configure the data source for this grid",
+			"class": ".class1608568353342",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "Among many other data sources, we will choose our Integrated Baserow No Code database source",
+			"class": ".class1599825036461",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": true
+		},
+		{
+			"title": "We select the operation to do. In this case \"Get data\" to retreive data form the database",
+			"class": ".class1600876689488",
+			"intro": ""
+		},
+		{
+			"title": "And validate",
+			"class": ".class1599830132445",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "Now we just have to configure the data source",
+			"class": ".class1678818942036",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "We select the database from where we want the data",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "Then the table where the data resides in",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "We unselect all the columns",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "And select only the one we want",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "Here",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "Here",
+			"intro": ".class123456789",
+			"url": "/editor"
+		},
+		{
+			"title": "And here!",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "We will reorder the columns",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "And this one too",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "And validate",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "We validate the data grid configuration",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "Et voila! let's see our app in action!",
+			"class": ".class123456789",
+			"intro": "",
+			"url": "/editor"
+		}
+	]
+}
