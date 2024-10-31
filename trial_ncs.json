@@ -1,0 +1,69 @@
+{
+	"isActive": true,
+	"nextLabel": "Next",
+	"prevLabel": "Back",
+	"skipLabel": "x",
+	"doneLabel": "Done",
+	"hidePrev": true,
+	"hideNext": false,
+	"nextToDone": true,
+	"tooltipPosition": "bottom",
+	"tooltipClass": "",
+	"group": "",
+	"highlightClass": "",
+	"exitOnEsc": true,
+	"exitOnOverlayClick": true,
+	"showStepNumbers": true,
+	"stepNumbersOfLabel": "of",
+	"keyboardNavigation": true,
+	"showButtons": true,
+	"showBullets": false,
+	"showProgress": true,
+	"scrollToElement": true,
+	"dontShowAgain": true,
+	"disableInteraction": false,
+	"steps":[
+		{
+			"title": "Convertigo No Code Studio<br>Demo",
+			"class": "",
+			"intro": "Learn how to create instantly No Code Apps",
+			"url": "/login"
+		},
+		{
+			"title": "You can use one of our Single Sign On options here. We also support SAMLv2 and LDAP for Enterprises",
+			"class": ".class1645091280593",
+			"intro": "Please, select an authentication method to proceed to next step.",
+			"url": "/login"
+		},
+		{
+			"title": "Here is your dashboard. In here you will find all your apps you are building.",
+			"class": ".class1645545973561",
+			"intro": "Also you will see here the \"Published App\" and the \"No Code Database\" Tabs.<br><ul><li>Click on \"Published Apps\" to see all the applications you published and those that are shared with you.</li><li>Click on \"No Code Database\" to list all thedata bases that have been created by you or shared with you.</li>",
+			"url": "/selector",
+			"hidePrevious": true
+		},
+		{
+			"title": "Let's add a new App!",
+			"class": ".class1645547241647",
+			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
+			"url": "/selector",
+			"hideNext": true,
+			"autoNext": true
+		},
+		{
+			"title": "Just name it Demo App",
+			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
+			"intro": "",
+			"url": "/selector"
+		},
+		{
+			"title": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
+			"class": "ion-toast::.toast-button",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": true,
+			"hideNext": false,
+			"autoNext": true
+		}
+	]
+}
