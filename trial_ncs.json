@@ -15,7 +15,7 @@
 	"exitOnOverlayClick": true,
 	"showStepNumbers": true,
 	"stepNumbersOfLabel": "of",
-	"keyboardNavigation": true,
+	"keyboardNavigation": false,
 	"showButtons": true,
 	"showBullets": false,
 	"showProgress": true,
@@ -30,10 +30,11 @@
 			"url": "/login"
 		},
 		{
-			"title": "You can use one of our Single Sign On options here. We also support SAMLv2 and LDAP for Enterprises",
+			"title": "You can use one of our Single Sign On options here.<br>We also support SAMLv2 and LDAP for Enterprises",
 			"class": ".class1645091280593",
 			"intro": "Please, select an authentication method to proceed to next step.",
-			"url": "/login"
+			"url": "/login",
+			"autoNext": true
 		},
 		{
 			"title": "Here is your dashboard. In here you will find all your apps you are building.",
