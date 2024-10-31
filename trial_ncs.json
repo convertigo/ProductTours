@@ -45,6 +45,12 @@
 			"hidePrevious": true
 		},
 		{
+			"title": "This is where you create a new empty Form or based on an existing template.",
+			"class": ".class1645547303032",
+			"intro": "",
+			"url": "/selector"
+		},
+		{
 			"title": "Let's add a new App!",
 			"class": ".class1645547241647",
 			"intro": "Click the + icon to create a new Form <br >and name it \"Demo App\". Click the Save button to validate.",
