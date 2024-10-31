@@ -79,6 +79,22 @@
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false
+		},
+		{
+			"title": "This is the main view of your Form where you add, modify and configure your components.",
+			"class": ".class1650357059411",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "Click this button to preview your Form.",
+			"class": ".class1650456634117",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
 		}
 	]
 }
