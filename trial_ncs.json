@@ -121,7 +121,7 @@
 		},
 		{
 			"title": "SELECT",
-			"class": "img[src="assets/images/svg/component/icn_select.svg"]",
+			"class": "img[src='assets/images/svg/component/icn_select.svg']",
 			"intro": "Click on this component to add a control that provides a menu of options.",
 			"url": "/editor",
 			"hidePrevious": false,
