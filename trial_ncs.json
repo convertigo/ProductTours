@@ -122,7 +122,7 @@
 		{
 			"title": "SELECT",
 			"class": "img[src='assets/images/svg/component/icn_select.svg']",
-			"intro": "This component is a control that provides a menu of options.<p><img src='https://github.com/convertigo/ProductTours/blob/22616489da0e7aa232119658305b80237c8b0ec3/imgs/component_select.png'></p><p>You can write your own options by hand or select data from the No COde Database.</p>",
+			"intro": "This component is a control that provides a menu of options.<p><img src='https://github.com/convertigo/ProductTours/blob/22616489da0e7aa232119658305b80237c8b0ec3/imgs/component_select.png?raw=true'></p><p>You can write your own options by hand or select data from the No COde Database.</p>",
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": true,
