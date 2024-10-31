@@ -125,6 +125,46 @@
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
+		},
+		{
+			"title": "DATE",
+			"class": "img[src='assets/images/svg/component/icn_calendar.svg']",
+			"intro": "This component allows the user to pick a date.",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "CAMERA",
+			"class": "img[src='assets/images/svg/component/icn_camera.svg']",
+			"intro": "This component allows the user to take a picture",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "DATA Grid",
+			"class": "img[src='assets/images/svg/component/icn_sheet.svg']",
+			"intro": "This component allows the user to represent data in a table. These data come from data sources.",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "IMPORT FILE",
+			"class": "img[src='assets/images/svg/component/icn_select.svg']",
+			"intro": "This component allows the user to import files.",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "SIGNATURE",
+			"class": "img[src='assets/images/svg/component/icn_select.svg']",
+			"intro": "This component allows the user to affix his signature.",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
 		}
 	]
 }
