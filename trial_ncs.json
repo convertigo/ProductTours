@@ -111,6 +111,22 @@
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
+		},
+		{
+			"title": "Let's see in details some components of the Palette",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "SELECT",
+			"class": "img[src="assets/images/svg/component/icn_select.svg"]",
+			"intro": "Click on this component to add a control that provides a menu of options.",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": true,
+			"autoNext" : "dblclick"
 		}
 	]
 }
