@@ -73,41 +73,41 @@
 			"autoNext": true
 		},
 		{
-			"title": "Here is the 'Palette' where all the form components sit.",
+			"title": "PALETTE",
 			"class": ".class1650357035511",
-			"intro": "",
+			"intro": "Here is the 'Palette' where all the form components sit.",
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false
 		},
 		{
-			"title": "This is the main view of your Form where you add, modify and configure your components.",
+			"title": "FORM EDITOR",
 			"class": ".class1650357059411",
-			"intro": "",
+			"intro": "This is the main view of your Form where you add, modify and configure your components.",
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
 		},
 		{
-			"title": "Click this button to preview your Form.",
+			"title": "PREVIEW",
 			"class": ".class1650456634117",
-			"intro": "",
+			"intro": "This button permits you to preview your Form.",
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
 		},
 		{
-			"title": "Once your Form is finished, click this button to publish it.",
+			"title": "PUBLISH",
 			"class": ".class1650456634147",
-			"intro": "",
+			"intro": "Once your Form is finished, click this button to publish it.<br>You can then share it with yours users to collect responses.",
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
 		},
 		{
-			"title": "Click this button to add collaborators your Form.<br>Collaborators can edit your form and/or view Form's responses.",
+			"title": "COLLABORATORS",
 			"class": ".class1650456634183",
-			"intro": "",
+			"intro": "Here, you will be able to add collaborators to your Form.<br>Collaborators can edit your form and/or view Form's responses.",
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
