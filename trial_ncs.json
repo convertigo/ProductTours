@@ -52,7 +52,7 @@
 		{
 			"title": "Let's add a new App!",
 			"class": ".class1645547241647",
-			"intro": "Click the + icon to create a new App.</p>",
+			"intro": "<p>Click the + icon to create a new App.</p>",
 			"url": "/selector",
 			"hideNext": true,
 			"autoNext": true
@@ -60,8 +60,9 @@
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "<p>Write \"Demo App\" in the 'Title' field. Click the Save button to validate",
-			"url": "/selector"
+			"intro": "<p>Write \"Demo App\" in the 'Title' field.</p><p>Click the Save button to validate</p>",
+			"url": "/selector",
+			"hideNext": true
 		},
 		{
 			"title": "GDPR",
