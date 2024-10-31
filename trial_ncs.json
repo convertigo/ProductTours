@@ -95,6 +95,22 @@
 			"url": "/editor",
 			"hidePrevious": false,
 			"hideNext": false
+		},
+		{
+			"title": "Once your Form is finished, click this button to publish it.",
+			"class": ".class1650456634117",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
+		},
+		{
+			"title": "Click this button to add collaborators your Form.<br>Collaborators can edit your form and/or view Form's responses.",
+			"class": ".class1650456634117",
+			"intro": "",
+			"url": "/editor",
+			"hidePrevious": false,
+			"hideNext": false
 		}
 	]
 }
