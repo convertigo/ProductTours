@@ -24,12 +24,12 @@
 	"disableInteraction": false,
 	"steps":[
 		{
-			"title": "Convertigo No Code Studio<br>Demo",
+			"title": "Convertigo No Code Studio\nDemo",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
 		{
-			"title": "You can use one of our Single Sign On options here.<br>We also support SAMLv2 and LDAP for Enterprises",
+			"title": "You can use one of our Single Sign On options here.\nWe also support SAMLv2 and LDAP for Enterprises",
 			"class": ".class1645091280593",
 			"intro": "Please, select an authentication method to proceed to next step.",
 			"url": "/login",
@@ -37,14 +37,14 @@
 			"autoNext": true
 		},
 		{
-			"title": "Here is your dashboard. In here you will find all your apps you are building.",
+			"title": "Here is your dashboard. In here you will find all your Apps you are building.",
 			"class": ".class1645545973561",
-			"intro": "Also you will see here the \"Published App\" and the \"No Code Database\" Tabs.<br><ul><li>Click on \"Published Apps\" to see all the applications you published and those that are shared with you.</li><li>Click on \"No Code Database\" to list all thedata bases that have been created by you or shared with you.</li>",
+			"intro": "Also you will see here the \"Published App\" and the \"No Code Database\" Tabs.\n _ \"Published Apps\" allows you to see all the applications you created or that are shared with you as a collaborator.\n _ \"Published Apps\" allows you to see all the applications you published and those that are shared with you.\n _ The \"No Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
 			"url": "/selector",
 			"hidePrevious": true
 		},
 		{
-			"title": "This is where you create a new empty Form or based on an existing template.",
+			"title": "This is where you create a new empty App or based on an existing template.",
 			"class": ".class1645547303032",
 			"intro": "",
 			"url": "/selector"
@@ -52,7 +52,7 @@
 		{
 			"title": "Let's add a new App!",
 			"class": ".class1645547241647",
-			"intro": "<p>Click the + icon to create a new App.</p>",
+			"intro": "Click the + icon to create a new App.",
 			"url": "/selector",
 			"hideNext": true,
 			"autoNext": true
@@ -60,7 +60,7 @@
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "<p>Write \"Demo App\" in the 'Title' field.</p><p>Click the Save button to validate</p>",
+			"intro": "Write \"Demo App\" in the 'Title' field.\nClick the Save button to validate",
 			"url": "/selector",
 			"hideNext": true
 		},
@@ -76,33 +76,33 @@
 		{
 			"title": "PALETTE",
 			"class": ".class1650357035511",
-			"intro": "Here is the 'Palette' where all the components available for your App sit.",
+			"intro": "Here is the 'Palette' where you will find all the components available for your App.",
 			"url": "/editor",
 			"hidePrevious": true,
 			"hideNext": false
 		},
 		{
-			"title": "FORM EDITOR",
+			"title": "APP EDITOR",
 			"class": ".class1650357059411",
-			"intro": "This is the main view of your APp where you add, modify and configure your components.",
+			"intro": "This is the main view of your App where you can add, modify and configure your components.",
 			"url": "/editor"
 		},
 		{
 			"title": "PREVIEW",
 			"class": ".class1650456634117",
-			"intro": "This button permits you to preview your App.",
+			"intro": "This button permits you to preview your App as a final user would see it.",
 			"url": "/editor"
 		},
 		{
 			"title": "PUBLISH",
 			"class": ".class1650456634147",
-			"intro": "Once your App is finished, click this button to publish it.<p>You can then share it with yours users to collect responses.</p>",
+			"intro": "Once your App is finished, this button allows you to publish it.\nYou can then share it with yours users to collect responses.",
 			"url": "/editor"
 		},
 		{
 			"title": "COLLABORATORS",
 			"class": ".class1650456634183",
-			"intro": "Here, you will be able to add collaborators to your App.<p>Collaborators can edit your form and/or view Form's responses.</p>",
+			"intro": "Here, you will be able to add collaborators to your App.\nCollaborators can edit your App and/or view App's responses.",
 			"url": "/editor"
 		},
 		{
@@ -113,31 +113,31 @@
 		{
 			"title": "SELECT",
 			"class": "img[src='assets/images/svg/component/icn_select.svg']",
-			"intro": "This component is a control that provides a menu of options.<p>You can write your own options by hand or select data from the No Code Database.</p>",
+			"intro": "This component is a control that provides a menu of options.\nYou can write your own options by hand or select data from the No Code Database.",
 			"url": "/editor"
 		},
 		{
 			"title": "DATE",
 			"class": "img[src='assets/images/svg/component/icn_calendar.svg']",
-			"intro": "This component allows the user to pick a date.",
+			"intro": "This component allows the user to pick a date in a calendar.",
 			"url": "/editor"
 		},
 		{
 			"title": "CAMERA",
 			"class": "img[src='assets/images/svg/component/icn_camera.svg']",
-			"intro": "This component allows the user to take a picture",
+			"intro": "This component allows the user to take a picture and add it to the App",
 			"url": "/editor"
 		},
 		{
 			"title": "DATA Grid",
 			"class": "img[src='assets/images/svg/component/icn_sheet.svg']",
-			"intro": "This component allows the user to represent data in a table. These data come from data sources.",
+			"intro": "This component allows you to present data in a table to the user. These data come from data sources.",
 			"url": "/editor"
 		},
 		{
 			"title": "IMPORT FILE",
 			"class": "img[src='assets/images/svg/component/icn_import.svg']",
-			"intro": "This component allows the user to import files.",
+			"intro": "This component allows the user to import files to the App.",
 			"url": "/editor"
 		},
 		{
