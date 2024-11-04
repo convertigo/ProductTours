@@ -21,7 +21,7 @@
 	"showProgress": true,
 	"scrollToElement": true,
 	"dontShowAgain": true,
-	"dontShowAgainLabel": "Don't show this again"
+	"dontShowAgainLabel": "Don't show this again",
 	"disableInteraction": false,
 	"steps":[
 		{
