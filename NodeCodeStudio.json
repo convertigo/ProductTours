@@ -24,12 +24,12 @@
 	"disableInteraction": false,
 	"steps":[
 		{
-			"title": "Welcome to the Convertigo No Code Studio\nProduct Tour!",
+			"title": "Welcome to the Convertigo No Code Studio<br>Product Tour!",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
 		{
-			"title": "You can use one of our Single Sign On options here.\nWe also support SAMLv2 and LDAP for Enterprises",
+			"title": "You can use one of our Single Sign On options here.<br>We also support SAMLv2 and LDAP for Enterprises",
 			"class": ".class1645091280593",
 			"intro": "Please, select an authentication method to proceed to next step.",
 			"url": "/login",
@@ -39,7 +39,7 @@
 		{
 			"title": "Here is your dashboard. In here you will find all your Apps you are building",
 			"class": ".class1645545973561",
-			"intro": "_ \"Forms edition\" allows you to see all the applications you created or that are shared with you as a collaborator.\n _ \"Published Forms\" allows you to see all the applications you published and those that are shared with you.\n _ The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
+			"intro": "_ \"Forms edition\" allows you to see all the applications you created or that are shared with you as a collaborator.<br> _ \"Published Forms\" allows you to see all the applications you published and those that are shared with you.<br> _ The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
 			"url": "/selector",
 			"hidePrevious": true
 		},
