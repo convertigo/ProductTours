@@ -62,7 +62,7 @@
 		{
 			"title": "Creating an application",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "Write \"Demo App\" in the title field.Click the save button to validate.",
+			"intro": "Write \"Demo App\" in the title field. Click the save button to validate.",
 			"url": "/selector",
 			"hideNext": true
 		},
