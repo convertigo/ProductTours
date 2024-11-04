@@ -165,7 +165,7 @@
 			"intro": "Let's see the default available actions. Click the section to open its configuration.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": true
+			"autoNext": "click"
 		},
 		{
 			"title": "ACTIONS - Submit responses",
@@ -173,7 +173,7 @@
 			"intro": "Click the little hammer icon to select an action.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": true
+			"autoNext": "click"
 		},
 		{
 			"title": "ACTIONS - Submit responses",
@@ -181,7 +181,7 @@
 			"intro": "This action allows you to fill a PDF document with the user responses.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": true
+			"autoNext": "click"
 		},
 		{
 			"title": "ACTIONS - Submit responses",
@@ -189,7 +189,7 @@
 			"intro": "This action allows you to send an e-mail with the user responses. It will contain PDF, pictures, signature if you had added the components to your App.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": true
+			"autoNext": "click"
 		},
 		{
 			"title": "CONGRATULATIONS!",
