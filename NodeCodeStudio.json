@@ -37,14 +37,14 @@
 			"autoNext": true
 		},
 		{
-			"title": "Here is your dashboard. In here you will find all your Apps you are building.",
+			"title": "Here is your dashboard. In here you will find all your Apps you are building",
 			"class": ".class1645545973561",
 			"intro": "_ \"Forms edition\" allows you to see all the applications you created or that are shared with you as a collaborator.\n _ \"Published Forms\" allows you to see all the applications you published and those that are shared with you.\n _ The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
 			"url": "/selector",
 			"hidePrevious": true
 		},
 		{
-			"title": "This is where you create a new empty App or based on an existing template.",
+			"title": "This is where you create a new empty App or based on an existing template",
 			"class": ".class1645547303032",
 			"intro": "",
 			"url": "/selector"
@@ -60,7 +60,7 @@
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "Write \"Demo App\" in the 'Title' field.\nClick the Save button to validate",
+			"intro": "Write \"Demo App\" in the 'Title' field.\nClick the Save button to validate.",
 			"url": "/selector",
 			"hideNext": true
 		},
@@ -125,7 +125,7 @@
 		{
 			"title": "CAMERA",
 			"class": "img[src='assets/images/svg/component/icn_camera.svg']",
-			"intro": "This component allows the user to take a picture and add it to the App",
+			"intro": "This component allows the user to take a picture and add it to the App.",
 			"url": "/editor"
 		},
 		{
@@ -145,6 +145,18 @@
 			"class": "img[src='assets/images/svg/component/icn_sign.svg']",
 			"intro": "This component allows the user to affix his signature.",
 			"url": "/editor"
+		},
+		{
+			"title": "Now, let's see some special components of the Palette that are triggered when the user fill the App and/or when the responses are submitted",
+			"intro": "",
+			"url": "/editor"
+		},
+		{
+			"title": "ACTIONS - Submit responses",
+			"class": "img[src='assets/images/svg/component/icn_submit.svg']",
+			"intro": "",
+			"url": "/editor",
+			"autoNext": "dblclick"
 		}
 	]
 }
