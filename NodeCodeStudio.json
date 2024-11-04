@@ -24,7 +24,7 @@
 	"disableInteraction": false,
 	"steps":[
 		{
-			"title": "Convertigo No Code Studio\nDemo",
+			"title": "Welcome to the Convertigo No Code Studio\nProduct Tour!",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
@@ -157,6 +157,18 @@
 			"intro": "This component adds an action that is triggered when the user submit responses to your App. These actions can be chained and will be executed sequentially in order.",
 			"url": "/editor",
 			"autoNext": "dblclick"
+		},
+		{
+			"title": "DATE",
+			"class": "img[src='assets/images/svg/component/icn_calendar.svg']",
+			"intro": "This component allows the user to pick a date in a calendar.",
+			"url": "/editor",
+			"autoNext": "dblclick"
+		},
+		{
+			"title": "CONGRATULATIONS!",
+			"intro": "You finished the No Code Studio Product Tour.\nNow it's your turn!",
+			"url": "/editor"
 		}
 	]
 }
