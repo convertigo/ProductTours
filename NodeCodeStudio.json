@@ -147,51 +147,6 @@
 			"url": "/editor"
 		},
 		{
-			"title": "Now, let's see some special components of the Palette that are triggered when the user fill the App and/or when the responses are submitted",
-			"intro": "",
-			"url": "/editor"
-		},
-		{
-			"title": "ACTIONS - Submit responses",
-			"class": "img[src='assets/images/svg/component/icn_submit.svg']",
-			"intro": "This component adds an action that is triggered when the user submit responses to your App. These actions can be chained and will be executed sequentially in order.",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": "dblclick"
-		},
-		{
-			"title": "ACTIONS - Submit responses",
-			"class": ".class1650357061802",
-			"intro": "Let's see the default available actions. Click the section to open its configuration.",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
-		},
-		{
-			"title": "ACTIONS - Submit responses",
-			"class": ".class1608568353333",
-			"intro": "Click the button to select an action.",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
-		},
-		{
-			"title": "ACTIONS - Submit responses",
-			"class": "img[src*='forms_fill_PDF.svg']",
-			"intro": "This action allows you to fill a PDF document with the user responses.",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
-		},
-		{
-			"title": "ACTIONS - Submit responses",
-			"class": "img[src*='forms_notify_response_simple_by_mail_simple.svg']",
-			"intro": "This action allows you to send an e-mail with the user responses. It will contain PDF, pictures, signature if you had added the components to your App.",
-			"url": "/editor",
-			"hideNext": true,
-			"autoNext": true
-		},
-		{
 			"title": "CONGRATULATIONS!",
 			"intro": "You finished the No Code Studio Product Tour.\nNow it's your turn!",
 			"url": "/editor"
