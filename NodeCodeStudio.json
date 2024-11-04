@@ -154,7 +154,7 @@
 		{
 			"title": "ACTIONS - Submit responses",
 			"class": "img[src='assets/images/svg/component/icn_submit.svg']",
-			"intro": "",
+			"intro": "This component adds an action that is triggered when the user submit responses to your App. These actions can be chained and will be executed sequentially in order.",
 			"url": "/editor",
 			"autoNext": "dblclick"
 		}
