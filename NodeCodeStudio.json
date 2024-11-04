@@ -24,7 +24,7 @@
 	"disableInteraction": false,
 	"steps":[
 		{
-			"title": "Welcome to the Convertigo No Code Studio<br>Product Tour!",
+			"title": "Welcome to the Convertigo No Code Studio Product Tour!",
 			"intro": "Learn how to create instantly No Code Apps",
 			"url": "/login"
 		},
@@ -39,7 +39,7 @@
 		{
 			"title": "Here is your dashboard. In here you will find all your Apps you are building",
 			"class": ".class1645545973561",
-			"intro": "_ \"Forms edition\" allows you to see all the applications you created or that are shared with you as a collaborator.<br> _ \"Published Forms\" allows you to see all the applications you published and those that are shared with you.<br> _ The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
+			"intro": "• The \"Forms edition\" tab allows you to see all the applications you created or that are shared with you as a collaborator.<br>• The \"Published Forms\" tab allows you to see all the applications you published and those that are shared with you.<br>• The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
 			"url": "/selector",
 			"hidePrevious": true
 		},
@@ -55,12 +55,13 @@
 			"intro": "Click the + icon to create a new App.",
 			"url": "/selector",
 			"hideNext": true,
-			"autoNext": true
+			"autoNext": true,
+			"position": "top"
 		},
 		{
 			"title": "Just name it Demo App",
 			"class": ".alert-wrapper.ion-overlay-wrapper.sc-ion-alert-md",
-			"intro": "Write \"Demo App\" in the 'Title' field.\nClick the Save button to validate.",
+			"intro": "Write \"Demo App\" in the 'Title' field.<br>Click the Save button to validate.",
 			"url": "/selector",
 			"hideNext": true
 		},
@@ -96,13 +97,13 @@
 		{
 			"title": "PUBLISH",
 			"class": ".class1650456634147",
-			"intro": "Once your App is finished, this button allows you to publish it.\nYou can then share it with yours users to collect responses.",
+			"intro": "Once your App is finished, this button allows you to publish it.<br>You can then share it with yours users to collect responses.",
 			"url": "/editor"
 		},
 		{
 			"title": "COLLABORATORS",
 			"class": ".class1650456634183",
-			"intro": "Here, you will be able to add collaborators to your App.\nCollaborators can edit your App and/or view App's responses.",
+			"intro": "Here, you will be able to add collaborators to your App.<br>Collaborators can edit your App and/or view App's responses.",
 			"url": "/editor"
 		},
 		{
@@ -113,7 +114,7 @@
 		{
 			"title": "SELECT",
 			"class": "img[src='assets/images/svg/component/icn_select.svg']",
-			"intro": "This component is a control that provides a menu of options.\nYou can write your own options by hand or select data from the No Code Database.",
+			"intro": "This component is a control that provides a menu of options.<br>You can write your own options by hand or select data from the No Code Database.",
 			"url": "/editor"
 		},
 		{
@@ -148,7 +149,7 @@
 		},
 		{
 			"title": "CONGRATULATIONS!",
-			"intro": "You finished the No Code Studio Product Tour.\nNow it's your turn!",
+			"intro": "You finished the No Code Studio Product Tour.<br>Now it's your turn!",
 			"url": "/editor"
 		}
 	]
