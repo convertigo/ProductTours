@@ -21,6 +21,7 @@
 	"showProgress": true,
 	"scrollToElement": true,
 	"dontShowAgain": true,
+	"dontShowAgainLabel": "Don't show this again"
 	"disableInteraction": false,
 	"steps":[
 		{
@@ -56,7 +57,7 @@
 			"url": "/selector",
 			"hideNext": true,
 			"autoNext": true,
-			"position": "top"
+			"position": "bottom"
 		},
 		{
 			"title": "Just name it Demo App",
