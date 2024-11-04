@@ -70,7 +70,7 @@
 			"intro": "We have here a GDPR notice a system administrator may have configured, just click ont it, once read.",
 			"url": "/editor",
 			"hidePrevious": true,
-			"hideNext": false,
+			"hideNext": true,
 			"autoNext": true
 		},
 		{
@@ -165,15 +165,15 @@
 			"intro": "Let's see the default available actions. Click the section to open its configuration.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": "click"
+			"autoNext": true
 		},
 		{
 			"title": "ACTIONS - Submit responses",
-			"class": ".class1608568353336",
-			"intro": "Click the little hammer icon to select an action.",
+			"class": ".class1608568353333",
+			"intro": "Click the button to select an action.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": "click"
+			"autoNext": true
 		},
 		{
 			"title": "ACTIONS - Submit responses",
@@ -181,7 +181,7 @@
 			"intro": "This action allows you to fill a PDF document with the user responses.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": "click"
+			"autoNext": true
 		},
 		{
 			"title": "ACTIONS - Submit responses",
@@ -189,7 +189,7 @@
 			"intro": "This action allows you to send an e-mail with the user responses. It will contain PDF, pictures, signature if you had added the components to your App.",
 			"url": "/editor",
 			"hideNext": true,
-			"autoNext": "click"
+			"autoNext": true
 		},
 		{
 			"title": "CONGRATULATIONS!",
