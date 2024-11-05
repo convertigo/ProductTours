@@ -56,8 +56,7 @@
 			"intro": "Click the + icon to create a new App.",
 			"url": "/selector",
 			"hideNext": true,
-			"autoNext": true,
-			"position": "bottom"
+			"autoNext": true
 		},
 		{
 			"title": "Creating an application",
