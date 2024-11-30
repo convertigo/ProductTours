@@ -40,7 +40,7 @@
 		{
 			"title": "Here is your dashboard. In here you will find all your Apps you are building",
 			"class": ".class1645545973561",
-			"intro": "• The \"Forms edition\" tab allows you to see all the applications you created or that are shared with you as a collaborator.<br>• The \"Published Forms\" tab allows you to see all the applications you published and those that are shared with you.<br>• The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
+			"intro": "• The \"Forms edition\" tab allows you to see all the applications you created or that are shared with you as a collaborator.<br>• The \"Published Forms\" tab allows you to see all the applications you published and those that are shared with you. by clicking on the QR code Icon, you can switch to QR mode display so you can flash a published App with your mobile phone to install it on your device<br>• The \"No-Code Database\" tab is the list of all the databases that have been created by you or shared with you.",
 			"url": "/selector",
 			"hidePrevious": true
 		},
