@@ -30,6 +30,11 @@
 			"url": "/login"
 		},
 		{
+			"title": "Instructions",
+			"intro": "• This pop-up will guide you to create your very first application.<br>• It will show you the zone where you have to click to process to next step.<br>• You can still click anywhere on the page to close any other unpredictable window.<br>• You can close this guide with the upper right Exit button.<br>• To permanently close the Product Tour, you can check the \"Don't show again\" button.<br>• Bon voyage!",
+			"url": "/login"
+		},
+		{
 			"title": "You can use one of our Single Sign On options here.<br>We also support SAMLv2 and LDAP for Enterprises",
 			"class": ".class1645091280593",
 			"intro": "Please, select an authentication method to proceed to next step.",
