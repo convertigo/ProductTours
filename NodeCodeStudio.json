@@ -27,7 +27,8 @@
 		{
 			"title": "Welcome to the Convertigo No Code Studio Product Tour!",
 			"intro": "Learn how to create instantly No Code Apps.",
-			"url": "/login"
+			"url": "/login",
+			"hidePrevious": true
 		},
 		{
 			"title": "Instructions",
@@ -41,6 +42,13 @@
 			"url": "/login",
 			"hideNext": true,
 			"autoNext": true
+		},
+		{
+			"title": "Want your own private Cloud?",
+			"class": "page-startcloud",
+			"intro": "Close this pop-up to continue using the Product Tour on the Trial server",
+			"url": "/selector",
+			"hidePrevious": true
 		},
 		{
 			"title": "Here is your dashboard. In here you will find all your Apps you are building",
