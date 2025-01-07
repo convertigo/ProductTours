@@ -2,7 +2,7 @@
 	"isActive": true,
 	"nextLabel": "Next",
 	"prevLabel": "Back",
-	"skipLabel": "Close",
+	"skipLabel": "x",
 	"doneLabel": "Done",
 	"hidePrev": true,
 	"hideNext": false,
