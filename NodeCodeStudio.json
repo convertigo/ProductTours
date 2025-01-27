@@ -46,7 +46,7 @@
 		{
 			"title": "Want your own private Cloud?",
 			"class": "page-startcloud",
-			"intro": "Close this pop-up to continue using the Product Tour on the Trial server",
+			"intro": "Close the underneath pop-up by clicking the \"Continue on Trial\" button to continue using the Product Tour on this Trial server",
 			"url": "/selector",
 			"hidePrevious": true
 		},
